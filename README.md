@@ -1,3 +1,4 @@
+<h1>OLÁ Sou Alex Gabriel estudante de programação/t.i</h1>
 <a href="https://github.com/AlexG-Rezende/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=AlexG-Rezende&show_icons=true&theme=transparent" />
 </a>
